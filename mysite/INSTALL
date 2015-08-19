@@ -1,0 +1,86 @@
+apt-get install python-dev
+pip install uwsgi
+vi foobar.py
+def application(env, start_response):
+    start_response('200 OK', [('Content-Type','text/html')])
+    return [b"Hello World"]
+uwsgi --http :9090 --wsgi-file foobar.py --master --processes 4 --threads 2 --stats :9191
+访问：http://10.20.0.99:9090/
+http://10.20.0.99:9191/
+
+apt-get install nginx
+service nginx start   
+访问：http://10.20.0.99/
+
+apt-get install mysql-server
+mysqladmin -uroot -pAdmin@123 password root
+
+bind-address = 0.0.0.0
+default-storage-engine = innodb
+innodb_file_per_table
+collation-server = utf8_general_ci
+init-connect = 'SET NAMES utf8'
+character-set-server = utf8
+
+service mysql restart
+create database db_mysite;
+
+mysql -uroot -proot -e "GRANT ALL PRIVILEGES ON db_mysite.* TO 'root'@'localhost' IDENTIFIED BY 'root';"
+mysql -uroot -proot -e "GRANT ALL PRIVILEGES ON db_mysite.* TO 'root'@'10.5.24.18' IDENTIFIED BY 'root';"
+mysql -uroot -proot -e "GRANT ALL PRIVILEGES ON db_mysite.* TO 'root'@'%' IDENTIFIED BY 'root';"
+
+
+pip install Django==1.6.11
+django-admin.py startproject mysite
+python manage.py startapp app
+vi settings.py——修改
+apt-get install python-mysqldb
+python manage.py syncdb
+python manage.py runserver 0.0.0.0:8000
+
+vi uwsgi.ini
+[uwsgi]
+http = 127.0.0.1:9090
+chdir = /root/web/mysite
+wsgi-file = mysite/wsgi.py
+master = true
+processes = 4
+threads = 2
+stats = 127.0.0.1:9191
+daemonize = /root/web/mysite/logs/uwsgi.log
+
+uwsgi uwsgi.ini
+
+openssl genrsa -out mysite.key 2048
+openssl req -new -key mysite.key -out mysite.csr
+openssl x509 -req -days 365 -in  mysite.csr -signkey  mysite.key -out mysite.crt
+
+[uwsgi]
+https = 127.0.0.1:9090,mysite.crt,mysite.key
+chdir = /root/web/mysite
+wsgi-file = mysite/wsgi.py
+master = true
+processes = 4
+threads = 2
+stats = 127.0.0.1:9191
+daemonize = /root/web/mysite/logs/uwsgi.log
+
+
+
+Quickstart for Python/WSGI applications：http://uwsgi-docs.readthedocs.org/en/latest/WSGIquickstart.html
+CentOS + Python3.3 + Django1.7 + uwsgi + nginx + mysql web发布环境搭建:http://f4d3.cn/220.html
+Nginx+uWSGI 入门：http://my.oschina.net/u/877567/blog/201577
+Nginx+uWSGI安装与配置：http://mdba.cn/?p=109
+uWSGI其二：安装与简单测试：http://www.nowamagic.net/academy/detail/1330331
+Nginx：http://wiki.ubuntu.org.cn/Nginx#.E5.AE.89.E8.A3.85nginx_.2Buwsgi.2B_Django
+Nginx+uWSGI 部署 Django 应用：http://www.oschina.net/question/54100_30386
+Nginx+uWSGI：http://my.oschina.net/guol/blog/121418
+快速部署Python应用：Nginx+uWSGI配置详解(1)：http://developer.51cto.com/art/201010/229615.htm
+Centos5.4+Nginx-0.8.50+UWSGI-0.9.6.2+Django-1.2.3搭建高性能WEB服务器[原创] ：http://blog.liuts.com/post/216/
+uWSGI的安装与配置（官网摘录） ：http://blog.csdn.net/chenggong2dm/article/details/43937433
+
+curl的GET、POST示例：
+curl -X GET 'http://10.20.0.99/gettest/?a=123&b=杨军'
+curl -X POST --data '{"email":"123456"}' 'http://10.20.0.99/posttest/'
+
+

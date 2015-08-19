@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools
+END
+mergejs.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/mergejs.py
+END
+shrinksafe.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/shrinksafe.py
+END
+jsmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/jsmin.py
+END
+update_dev_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/update_dev_dir.sh
+END
+minimize.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/minimize.py
+END
+oldot.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/oldot.py
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/release.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/README.txt
+END
+BeautifulSoup.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/BeautifulSoup.py
+END
+exampleparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/exampleparser.py
+END
+toposort.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/toposort.py
+END
+jsmin.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/pretty-json-master/build/tools/jsmin.c
+END

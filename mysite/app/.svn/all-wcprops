@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cloud/!svn/ver/1574/Malakas/branches/test/mysite/app
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cloud/!svn/ver/1475/Malakas/branches/test/mysite/app/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cloud/!svn/ver/1574/Malakas/branches/test/mysite/app/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cloud/!svn/ver/1475/Malakas/branches/test/mysite/app/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cloud/!svn/ver/1475/Malakas/branches/test/mysite/app/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cloud/!svn/ver/1475/Malakas/branches/test/mysite/app/models.py
+END

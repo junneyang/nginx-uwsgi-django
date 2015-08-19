@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/package.json
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/.travis.yml
+END
+bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/bower.json
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/CONTRIBUTING.md
+END
+.jscs.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/.jscs.json
+END
+Gruntfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/Gruntfile.js
+END
+component.json
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/component.json
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/README.md
+END
+.npmignore
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/.npmignore
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/bootstrap-datetimepicker-master/LICENSE
+END

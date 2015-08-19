@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment
+END
+locale.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/locale.js
+END
+add_subtract.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/add_subtract.js
+END
+preparse_postformat.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/preparse_postformat.js
+END
+leapyear.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/leapyear.js
+END
+week_year.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/week_year.js
+END
+weeks.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/weeks.js
+END
+quarter.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/quarter.js
+END
+is_between.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/is_between.js
+END
+invalid.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/invalid.js
+END
+weekday.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/weekday.js
+END
+relative_time.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/relative_time.js
+END
+is_moment.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/is_moment.js
+END
+is_valid.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/is_valid.js
+END
+utc.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/utc.js
+END
+days_in_month.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/days_in_month.js
+END
+string_prototype.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/string_prototype.js
+END
+is_before.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/is_before.js
+END
+zones.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/zones.js
+END
+utc_offset.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/utc_offset.js
+END
+create.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/create.js
+END
+is_date.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/is_date.js
+END
+diff.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/diff.js
+END
+duration_from_moments.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/duration_from_moments.js
+END
+sod_eod.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/sod_eod.js
+END
+parsing_flags.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/parsing_flags.js
+END
+is_same.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/is_same.js
+END
+normalizeUnits.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/normalizeUnits.js
+END
+weeks_in_year.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/weeks_in_year.js
+END
+listers.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/listers.js
+END
+duration.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/duration.js
+END
+getters_setters.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/getters_setters.js
+END
+min_max.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/min_max.js
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/format.js
+END
+mutable.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/mutable.js
+END
+zone_switching.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/zone_switching.js
+END
+is_after.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cloud/!svn/ver/1496/Malakas/branches/test/mysite/static/js/model/moment-develop/test/moment/is_after.js
+END
